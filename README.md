@@ -1,6 +1,6 @@
 ### Let the best take win
 
-A bet between Balaji Srinivasan & James Medlock
+A bet between Balaji Srinivasan & James Medlock : https://twitter.com/balajis/status/1636797265317867520?s=20
 
 To deploy the contract, the following information is needed
 
