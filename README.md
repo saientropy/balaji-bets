@@ -1,4 +1,4 @@
-###Let the best take win
+### Let the best take win
 
 A bet between Balaji Srinivasan & James Medlock
 
